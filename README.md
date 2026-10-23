@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am SWE at Google working on anti-distillation protecting IP of our gemini models.
+
 Have too many interests and too little time to pursue them all.
 
 🔭 Some things that are currently of interest to me
@@ -7,6 +9,7 @@ Have too many interests and too little time to pursue them all.
 2. Long running autonomous agents and alignment
 3. Low level hardware design and their working (Systiolic arrays, TPU, custom ASIC)
 4. Reading books - poetry, fiction with indian theme
+5. Music / guitar & sports
 
 
 Sometimes I write at (both technical and personal perspective) here rkoush.com
