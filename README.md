@@ -12,7 +12,7 @@ Have too many interests and too little time to pursue them all.
 5. Music / guitar & sports
 
 
-Sometimes I write at (both technical and personal perspective) here rkoush.com
+Sometimes I write (both technical and personal perspective) here rkoush.com
 
 📫 Feel free to reach out at rohit.koush@gmail.com
 
