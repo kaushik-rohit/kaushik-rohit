@@ -16,6 +16,16 @@ Sometimes I write (both technical and personal perspective) here rkoush.com
 
 📫 Feel free to reach out at rohit.koush@gmail.com / www.linkedin.com/in/rohit-koush
 
+-----------------------------------------------------------------------------------------
+📫 Personal Philosophy
+
+1) Be nice and authentic
+2) Give more than you take
+3) Get done what's needed
+4) Help those below you
+5) Nothing or nobody is special
+6) Everyone is capable of doing everything
+
 <!--
 **kaushik-rohit/kaushik-rohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
