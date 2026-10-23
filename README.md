@@ -14,7 +14,7 @@ Have too many interests and too little time to pursue them all.
 
 Sometimes I write (both technical and personal perspective) here rkoush.com
 
-📫 Feel free to reach out at rohit.koush@gmail.com
+📫 Feel free to reach out at rohit.koush@gmail.com / www.linkedin.com/in/rohit-koush
 
 <!--
 **kaushik-rohit/kaushik-rohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
